@@ -1,0 +1,15 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+
+# Data files
+data/
+*.pkl
+*.faiss
+*.xlsx
